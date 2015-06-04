@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/b3nj4m/brobbot-instance",
   "dependencies": {
-    "brobbot": "^5.0.0"
+    "brobbot": "^6.0.0"
   }
 }
